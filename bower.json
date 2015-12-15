@@ -1,0 +1,23 @@
+{
+  "name": "AngularBootstrapTest",
+  "version": "0.0.1",
+  "main": "index.php",
+  "authors": [
+    "Alessio Carrafa"
+  ],
+  "license": "MIT",
+  "homepage": "index.php",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+	"angular": "angularjs#~1.4.5",
+    "jquery": "~2.1.4",
+    "bootstrap": "~3.3.6",
+	"font-awesome": "~4.2.0"
+  }
+}
